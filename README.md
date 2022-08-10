@@ -1,2 +1,2 @@
 # odin-recipes
-recipe html project on odin
+odin recipe project using the html skills learned in odin to create a recipe website
